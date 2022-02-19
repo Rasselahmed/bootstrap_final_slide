@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.headersection{
+    width: 100%;
+    height: 100vh;
+    border: 1px solid;
+    
+}
+.mnbx{
+    width: 100%;
+    height: 80vh;
+    border: 3px solid;
+}
+.carousel-item {
+    height: 80vh;
+}
+.carousel-item h5, p{
+    color: aliceblue;
+}
+.first3{
+    margin-left: 10%;
+}
+.last2{
+    margin-right: 10% ;
+}
+.ami .tumi [data-bs-target] {
+    background-color: red;
+}
+.ami .carousel-control-prev-icon,
+.ami .carousel-control-next-icon {
+    filter: none;
+}
+
